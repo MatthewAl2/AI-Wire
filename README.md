@@ -83,21 +83,18 @@ set OLLAMA_URL=http://localhost:11434/api/generate
 
 ## Publishing to GitHub Pages
 
-Not done yet — needs a GitHub repo to push to:
+Already set up at https://github.com/MatthewAl2/AI-Wire — pushed to `main`.
+In the repo's Settings → Pages, source is the `main` branch, `/docs` folder;
+the site is live at `https://matthewal2.github.io/AI-Wire/`.
 
-1. Create a new (empty) repo on GitHub.
-2. From this folder:
-   ```
-   git init
-   git add .
-   git commit -m "Initial AI Wire site"
-   git branch -M main
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
-3. In the repo's Settings → Pages, set the source to the `main` branch, `/docs` folder.
-4. The site will be live at `https://<username>.github.io/<repo>/`.
+## Automatic daily refresh (GitHub Actions)
 
-To keep it updated automatically, re-run the pipeline (`python -m aiwire.main`)
-and push whenever you want fresh news, or add a GitHub Actions workflow on a
-daily schedule (not set up yet — ask if you want this wired up).
+`.github/workflows/refresh.yml` runs the pipeline on a schedule (13:00 UTC
+daily, adjustable via the cron line) and on manual trigger (Actions tab →
+"Refresh AI Wire" → Run workflow). It installs Ollama and the model fresh on
+each GitHub-hosted runner (cached between runs via `actions/cache` so it
+doesn't re-download every time), runs `python -m aiwire.main`, and pushes the
+regenerated `docs/` + `data/news.json` back to `main` if anything changed.
+
+No secrets to configure — it uses the workflow's automatically-provided
+`GITHUB_TOKEN` to push, since it's committing to the same repo.
