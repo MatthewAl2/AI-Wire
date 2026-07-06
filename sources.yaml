@@ -1,0 +1,50 @@
+sources:
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: news
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    category: news
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: news
+  - name: Ars Technica
+    url: https://arstechnica.com/tag/ai/feed/
+    category: news
+  - name: Wired AI
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    category: news
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: research
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: research
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: research
+  - name: MarkTechPost
+    url: https://www.marktechpost.com/feed/
+    category: research
+  - name: DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    category: research
+  - name: Berkeley BAIR
+    url: https://bair.berkeley.edu/blog/feed.xml
+    category: research
+  - name: arXiv
+    url: http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=50
+    category: research
+    requires_association: true
+  - name: Hacker News
+    url: https://hnrss.org/newest?q=AI&points=75
+    category: community
+  - name: r/MachineLearning
+    url: https://www.reddit.com/r/MachineLearning/.rss
+    category: community
+  - name: r/LocalLLaMA
+    url: https://www.reddit.com/r/LocalLLaMA/.rss
+    category: community
+  - name: r/artificial
+    url: https://www.reddit.com/r/artificial/.rss
+    category: community

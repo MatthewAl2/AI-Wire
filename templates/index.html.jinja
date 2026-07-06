@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Wire &mdash; the day's most important AI news</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+{% import "_nav.html.jinja" as navmod %}
+{% import "_card.html.jinja" as cardmod %}
+{% import "_sort_toggle.html.jinja" as sortmod %}
+{{ navmod.render('home') }}
+<section class="wrap">
+  <div class="eyebrow" style="color:var(--ink-soft); margin-bottom:14px;">Updated {{ generated_at }}</div>
+  {% if hero_items %}
+  <div class="hero-grid">
+    {{ cardmod.card(hero_items[0], big=True) }}
+    <div class="side-stack">
+      {% for item in hero_items[1:] %}{{ cardmod.card(item) }}{% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="empty-state">No news yet &mdash; run the pipeline to fetch and summarize today's stories.</div>
+  {% endif %}
+</section>
+{% for section in sections %}
+<section class="wrap">
+  <div class="section-head">
+    <h2>{{ section.label }}</h2>
+    <a href="{{ section.href }}">See all &rarr;</a>
+  </div>
+  {% if section.cards %}
+  {{ sortmod.toggle(section.grid_id) }}
+  <div class="grid grid-3" id="{{ section.grid_id }}">
+    {% for item in section.cards %}{{ cardmod.card(item) }}{% endfor %}
+  </div>
+  {% else %}
+  <div class="empty-state">Nothing here yet.</div>
+  {% endif %}
+</section>
+{% endfor %}
+<footer class="wrap">
+  <span>AI Wire &mdash; generated {{ generated_at }}</span>
+  <span>Summaries by a local open-source model &middot; links go to original publishers</span>
+</footer>
+<script src="sort.js"></script>
+</body>
+</html>

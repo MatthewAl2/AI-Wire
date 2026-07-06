@@ -1,0 +1,21 @@
+{% macro render(active) %}
+<nav class="nav">
+  <div class="wrap nav-inner">
+    <a class="logo" href="index.html"><svg class="logo-mark" viewBox="0 0 32 32" fill="none">
+  <defs><linearGradient id="lm" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#4338ff"/><stop offset="1" stop-color="#17d9c4"/>
+  </linearGradient></defs>
+  <circle cx="16" cy="6" r="3.4" fill="url(#lm)"/>
+  <circle cx="6" cy="24" r="3.4" fill="url(#lm)"/>
+  <circle cx="26" cy="24" r="3.4" fill="url(#lm)"/>
+  <path d="M16 9.4 8 21.5 M16 9.4 24 21.5 M8.8 24H23.2" stroke="url(#lm)" stroke-width="1.6"/>
+</svg>AI Wire</a>
+    <div class="nav-links">
+      <a class="{{ 'active' if active == 'home' else '' }}" href="index.html">Home</a>
+      <a class="{{ 'active' if active == 'newsletter' else '' }}" href="newsletter.html">Newsletter</a>
+      <a class="{{ 'active' if active == 'research' else '' }}" href="research.html">Research</a>
+      <a class="{{ 'active' if active == 'community' else '' }}" href="community.html">Community</a>
+    </div>
+  </div>
+</nav>
+{% endmacro %}

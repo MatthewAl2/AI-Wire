@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Wire &mdash; {{ heading }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+{% import "_nav.html.jinja" as navmod %}
+{% import "_card.html.jinja" as cardmod %}
+{% import "_sort_toggle.html.jinja" as sortmod %}
+{{ navmod.render(active) }}
+<section class="wrap cat-hero">
+  <span class="pill {{ category }}">{{ category_label }}</span>
+  <h1 style="margin-top:14px;">{{ heading }}</h1>
+  <p>{{ description }}</p>
+</section>
+<section class="wrap">
+  {% if items %}
+  {{ sortmod.toggle(grid_id) }}
+  <div class="grid grid-3" id="{{ grid_id }}">
+    {% for item in items %}{{ cardmod.card(item) }}{% endfor %}
+  </div>
+  {% else %}
+  <div class="empty-state">No stories in this category yet &mdash; run the pipeline to fetch and summarize today's stories.</div>
+  {% endif %}
+</section>
+<footer class="wrap">
+  <span>AI Wire &mdash; generated {{ generated_at }}</span>
+  <span>Summaries by a local open-source model &middot; links go to original publishers</span>
+</footer>
+<script src="sort.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{% macro toggle(target_id) %}
+<div class="list-toolbar">
+  <div class="sort-toggle" data-target="{{ target_id }}">
+    <button type="button" class="sort-btn active" data-sort="recent">Most Recent</button>
+    <button type="button" class="sort-btn" data-sort="importance">Most Important</button>
+  </div>
+</div>
+{% endmacro %}

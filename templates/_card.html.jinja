@@ -1,0 +1,19 @@
+{% macro card(item, big=False) %}
+<article class="card{{ ' big' if big else '' }}" data-importance="{{ item.importance }}" data-published="{{ item.published_ts }}">
+  <div class="node-banner banner-{{ item.category }}"><span class="banner-source">{{ item.source }}</span></div>
+  <div class="card-body">
+    <span class="pill {{ item.category }}">{{ item.category_label }}</span>
+    <h3>{{ item.summary }}</h3>
+    <div class="meta">
+      <span class="who"><span class="avatar" style="background:{{ item.avatar_color }}">{{ item.initials }}</span>{{ item.source }}</span>
+      <a class="src-link" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.relative_time }} &middot; Read original &rarr;</a>
+    </div>
+    {% if item.related %}
+    <div class="related-sources">
+      Also covered by
+      {% for rel in item.related %}<a href="{{ rel.link }}" target="_blank" rel="noopener noreferrer">{{ rel.source }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>
+{% endmacro %}
