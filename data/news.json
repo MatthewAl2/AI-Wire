@@ -76,50 +76,6 @@
     "summary": "Amazon has announced it will discontinue its crowdsourcing platform Mechanical Turk, effectively stopping new customer sign-ups.",
     "importance": 4
   },
-  "8573d500219a4ac532ed92baa6a2b5076a8b6460": {
-    "id": "8573d500219a4ac532ed92baa6a2b5076a8b6460",
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-07-04T20:55:25+00:00",
-    "summary": "A new Google commercial envisions an alternate history where the Founding Fathers used Google Workspace to co-author the Declaration of Independence.",
-    "importance": 4
-  },
-  "ad2c7ff5662989c64092f75a7e7a4ada3f5f2e5b": {
-    "id": "ad2c7ff5662989c64092f75a7e7a4ada3f5f2e5b",
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-07-04T18:00:05+00:00",
-    "summary": "Midjourney is seeking to force major Hollywood studios to disclose the specifics of their AI usage in a lawsuit.",
-    "importance": 3
-  },
-  "7a350947a79882828584657a9ebddcbdc6029b92": {
-    "id": "7a350947a79882828584657a9ebddcbdc6029b92",
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-07-04T16:32:08+00:00",
-    "summary": "Alibaba has allegedly banned its employees from using Claude Code, a software deemed high-risk by the company.",
-    "importance": 5
-  },
-  "2f6fc0b6a29caa9b23241a9ed8c35366fe571074": {
-    "id": "2f6fc0b6a29caa9b23241a9ed8c35366fe571074",
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-07-04T15:51:32+00:00",
-    "summary": "Mistral AI is an open-source AI model developer that aims to democratize access to advanced artificial intelligence technologies through significant funding.",
-    "importance": 5
-  },
   "6b7e3847e7a74e659e2fab0ab5bc3ffcee3a07f3": {
     "id": "6b7e3847e7a74e659e2fab0ab5bc3ffcee3a07f3",
     "title": "I spy",
@@ -152,17 +108,6 @@
     "published": "2026-07-05T22:30:54+00:00",
     "summary": "Wealthy Americans are leveraging AI-powered educational platforms, such as Forge Prep and Alpha, to homeschool their children instead of traditional public or private schools.",
     "importance": 3
-  },
-  "27710906dff6aade7ada68a493f736d76eeaa8c2": {
-    "id": "27710906dff6aade7ada68a493f736d76eeaa8c2",
-    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "description": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to […]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-    "source": "The Verge AI",
-    "category": "news",
-    "published": "2026-07-05T14:23:11+00:00",
-    "summary": "A new Google commercial envisions the founding fathers using Google Workspace and AI-powered tool Gemini to collaborate on drafting the US Declaration of Independence.",
-    "importance": 4
   },
   "15788ba1218295bd0c510675456b7c2de4e7bce0": {
     "id": "15788ba1218295bd0c510675456b7c2de4e7bce0",
@@ -250,61 +195,6 @@
     "category": "research",
     "published": "2026-07-05T21:25:10+00:00",
     "summary": "Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token with native 1-million-token context.",
-    "importance": 4
-  },
-  "2b7ca2006cf244c4f921df85d43bb1215fa6c290": {
-    "id": "2b7ca2006cf244c4f921df85d43bb1215fa6c290",
-    "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-    "description": "LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS. The post LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-07-05T07:50:19+00:00",
-    "summary": "LlamaIndex's legal-kb provides a public reference app that offers agentic retrieval tools for searching, finding, reading, and grepping document knowledge bases using the Index v2.",
-    "importance": 3
-  },
-  "e66831309e3db6b09500f9f2e538ddb7044dc020": {
-    "id": "e66831309e3db6b09500f9f2e538ddb7044dc020",
-    "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026",
-    "description": "Most enterprise data still sits inside PDFs, scans, and slide decks. Large language models and agents cannot use that data until it becomes structured JSON. Open-source document extraction has become the standard way to do that conversion on your own hardware. Two different problems hide under the phrase ‘PDF to JSON.’ The first is schema-driven […] The post Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026 appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-07-05T03:02:08+00:00",
-    "summary": "Open-source document extraction models are becoming a standard method for converting unstructured data from PDFs and other formats into structured JSON format.",
-    "importance": 4
-  },
-  "a575a7153d2d0dc08bc80d3381c7b7fa955eeae1": {
-    "id": "a575a7153d2d0dc08bc80d3381c7b7fa955eeae1",
-    "title": "Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents",
-    "description": "Junyang Lin, the former technical lead of Alibaba's Qwen, walked through the model family in a talk \"towards a generalist model / agent,\" then expanded it in an essay. We read both for practitioners: Qwen3 hybrid thinking modes and dynamic thinking budgets, where the merge fell short, the shift from reasoning thinking to agentic thinking, why agentic RL infrastructure is harder, and where reward hacking bites. The post Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-07-05T02:31:14+00:00",
-    "summary": "Junyang Lin, former technical lead of Alibaba's Qwen, critiques hybrid thinking in AI models, now backing agents that prioritize agentic RL infrastructure over reasoning.",
-    "importance": 4
-  },
-  "61430d54dbaf40bc00b76f1388b01a415ae99486": {
-    "id": "61430d54dbaf40bc00b76f1388b01a415ae99486",
-    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-    "description": "Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills. The post Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-07-04T16:21:21+00:00",
-    "summary": "Anthropic's Claude Science beta launches a multi-agent AI workbench for reproducible genomics, proteomics, and cheminformatics pipelines using existing models and various databases.",
-    "importance": 5
-  },
-  "0354d242f80a8ee9ffaac0fdabda4a63fe3a2f5a": {
-    "id": "0354d242f80a8ee9ffaac0fdabda4a63fe3a2f5a",
-    "title": "NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
-    "description": "A hands-free NVIDIA agent framework hosts each RTL problem as a versioned repository, reaching 100% completion across benchmarks. The post NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-07-04T16:04:29+00:00",
-    "summary": "NVIDIA's HORIZON framework achieves 100% completion of RTL benchmark tests using a hands-free, versioned repository-based agent for evolving Git worktrees.",
     "importance": 4
   },
   "dda37a3b26bcfbe57043725010c00b8e6d8f3192": {
@@ -395,17 +285,6 @@
     "summary": "Researchers have developed a sociotechnical threat model to analyze vulnerabilities in AI-driven smart home devices, highlighting potential risks and mitigation strategies.",
     "importance": 2
   },
-  "8db70621c30350202436a5b0bb2d5e922d792b5b": {
-    "id": "8db70621c30350202436a5b0bb2d5e922d792b5b",
-    "title": "AI has torched the market for junior programmers",
-    "description": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 100 # Comments: 194",
-    "link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
-    "source": "Hacker News",
-    "category": "community",
-    "published": "2026-07-04T19:50:08+00:00",
-    "summary": "The rise of AI has significantly reduced the demand for junior programmers, making it a challenging job market for those with limited experience.",
-    "importance": 2
-  },
   "31fe60a54e4bbc561272640648a0324ec518e5c5": {
     "id": "31fe60a54e4bbc561272640648a0324ec518e5c5",
     "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
@@ -472,17 +351,6 @@
     "summary": "Researchers investigating intrinsic motivation in AI face challenges as advancements in robot learning often rely on human supervision or behavior cloning, casting doubt on its practical viability.",
     "importance": 2
   },
-  "99500b888288ce8c20c4cdaeca3fbb7f83ebf9a5": {
-    "id": "99500b888288ce8c20c4cdaeca3fbb7f83ebf9a5",
-    "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
-    "description": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professors probably had at my stage in life. I'm sure I am not the only one having the following thoughts: \"My research is currently being done better at companies.\" \"ML problem I set out to solve is already solved and in fact turned into products and sold for millions at companies X, Y, Z. There is no need for further research.\" \"Industry is not interested in theoretical ideas and there is plenty of evidence for that, starting with their hiring practice.\" \"Companies wouldn't have millions of dollars in funding or revenues if their models weren't working.\" \"Research is like Darwinian evolution. Evolution aims to produce the fittest model. After decades of evolution, the fittest model is already in industry, why should I explore other evolutionary dead-ends?\" \"There may not be a next big thing after LLM. If there were, it would be simply incorporated as a function or a subroutine that LLM simply calls when needed, and the average person would be none the wiser. My contribution would be invisible.\" Seems like research outside of big tech companies is pointless (unless you are a prof who is making big $$ while doing it). Because whatever they are working on might be lightyears ahead of whatever you are doing, but you wouldn't know because their model is simultaneously closed-source and omnip",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-07-05T04:54:28+00:00",
-    "summary": "Researchers may feel discouraged from pursuing AI projects due to the perceived superiority of large tech companies' work, which can lead to a lack of confidence in their own contributions.",
-    "importance": 4
-  },
   "2c56be32e2a3d95858f94624df4e3ee02669ffda": {
     "id": "2c56be32e2a3d95858f94624df4e3ee02669ffda",
     "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
@@ -494,17 +362,6 @@
     "summary": "Researchers seeking to evaluate the security of large language model (LLM) applications and AI agents are looking for models that can generate realistic red-team attacks, such as toxicity and SQL injection.",
     "importance": 3
   },
-  "4fa791ae7fe747f6f710b63d056b88ce49c0a58c": {
-    "id": "4fa791ae7fe747f6f710b63d056b88ce49c0a58c",
-    "title": "Is machine learning research worth it for now? [D]",
-    "description": "I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up. From what I see, there are clearly a million possibilities not done yet, e.g., industrial data, patterns in nature, etc. Why is the job perspective so pessimistic? We clearly have problems unsolved, and for many, the potential of ML will be proven for sure. We also have money (according to the news), and then why are jobs almost impossible? submitted by /u/nebula7293 [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-07-05T11:58:49+00:00",
-    "summary": "A researcher finds machine learning to be a valuable tool in their field, despite concerns about job prospects and the vast potential for unexplored applications.",
-    "importance": 2
-  },
   "69b866339f857fc2485dfd9dfa46c98923c8e58a": {
     "id": "69b866339f857fc2485dfd9dfa46c98923c8e58a",
     "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
@@ -515,28 +372,6 @@
     "published": "2026-07-05T18:08:49+00:00",
     "summary": "An 18-year-old Tunisian student has built an open-source machine translation pipeline and parallel corpus for Tunisian Darija, a language with limited NLP resources.",
     "importance": 2
-  },
-  "9593579a58695dbcc47d942936a8af09dd5c7d47": {
-    "id": "9593579a58695dbcc47d942936a8af09dd5c7d47",
-    "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]",
-    "description": "I made a 10MB LoRA adapter for Qwen3.5-4B plus a small orchestration layer. It decides, per query, whether to answer directly, search the web, or retrieve from your own local documents and it refuses to make things up when it can't verify an answer. It runs locally (Apple Silicon / MLX, with a GGUF build for llama.cpp/Ollama). Basically small instruct models are poor at telling users how confident they really are. They can't verbalise it and tend to say they are confident for everyhting. In my past research I tested seven 3-9b models and they all hit a confidence ceiling. But the information is there in the internal activations. The adapter reads the internal signal directly and gates tool use on it. The main elements are that: - it catches its own errors better than the base model's tool calling (d′ improvement of 0.46 (95% CI [0.01, 0.89])). Of the cases the gate flagged that the base model didn't, 87% were genuinely wrong answers. - it is less likely to leak your private queries to public search. A two-signal version routes personal information related questions such as \"what did my discharge summary say\" to a local retriever instead of a websearch. It cut the rate of private questions sent to public search from 22% to 10% (reduction 0.12, 95% CI [0.02, 0.22]). This is useful for those who are using the LLM for confidential docs. - every answer is traceable. When it retrieves, it cites the specific passage ( report.md ¶2 ), verifies the answer is actually in that passage, ",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-07-05T07:49:09+00:00",
-    "summary": "Researchers have developed a gating tool-use mechanism on Qwen3.5-4B, leveraging internal confidence signals to improve accuracy and reduce private query leakage.",
-    "importance": 3
-  },
-  "09d857536d7a73c0b53627295675c1d8b25b5b16": {
-    "id": "09d857536d7a73c0b53627295675c1d8b25b5b16",
-    "title": "ECCV travel support program [D]",
-    "description": "Has anyone gotten a response from the eccv travel support program listed on their website? https://eccv.ecva.net/Conferences/2026/DEI Edit: also have anyone applied for this program as an accepted author? I have an independent research paper accepted and am currently looking for funds for paying for the registration fees submitted by /u/tedd235 [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-07-05T08:49:12+00:00",
-    "summary": "The ECCV travel support program, listed on the conference website, provides funding assistance to researchers attending the event.",
-    "importance": 3
   },
   "98d33e5bab2d98e29be38295f801f6074ab85f09": {
     "id": "98d33e5bab2d98e29be38295f801f6074ab85f09",
@@ -6042,6 +5877,138 @@
     "published": "2026-07-17T18:11:07+00:00",
     "requires_association": false,
     "summary": "Rebuttal access was granted to reviewers on July 11, and any subsequent modifications will update the final score, even if it's no longer visible.",
+    "importance": 2
+  },
+  "c4619a8d04328df704618a0b48f42b0f4f1cd36a": {
+    "id": "c4619a8d04328df704618a0b48f42b0f4f1cd36a",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "published": "2026-07-19T14:00:00+00:00",
+    "requires_association": false,
+    "summary": "Current AI, a non-profit organization, aims to create an open-source global network of artificial intelligence accessible to everyone worldwide.",
+    "importance": 3
+  },
+  "80ddfeeeb7a4a3e978264201e8aacb9e89ded264": {
+    "id": "80ddfeeeb7a4a3e978264201e8aacb9e89ded264",
+    "title": "Kimi: Threat or menace?",
+    "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "published": "2026-07-18T18:51:07+00:00",
+    "requires_association": false,
+    "summary": "Chinese company Moonshot AI has released an updated version of its Kimi model, sparking concerns over the potential for widespread AI adoption and control.",
+    "importance": 4
+  },
+  "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a": {
+    "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
+    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "description": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "source": "The Verge AI",
+    "category": "news",
+    "published": "2026-07-18T20:54:42+00:00",
+    "requires_association": false,
+    "summary": "Author Dave Eggers claimed ChatGPT was \"silencing an entire generation\" in a talk to OpenAI staff last year, sparking controversy over AI's impact on writing.",
+    "importance": 4
+  },
+  "c652d8cdafb3027cb4b6ea596d6843a01490e65e": {
+    "id": "c652d8cdafb3027cb4b6ea596d6843a01490e65e",
+    "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
+    "description": "I'm a Computer Science student about to start my 4th semester this September in Pakistan. My long-term goals are: - Maintain a high GPA because I want to pursue a fully funded Master's abroad. - Eventually work at a top tech company (FAANG or similar). - Become a genuinely good software engineer rather than just someone who can build projects. A bit about me: I actually enjoy programming. I like logic, problem-solving, debugging, and understanding how things work under the hood. My initial plan for the rest of this year (August–December) was to focus on: - Java - Spring Boot - Backend development - LeetCode and DSA - SQL - System Design (starting with the basics) - Building projects and putting them on GitHub However, my brother (he's also studying CS) has a very different opinion. He's heavily into AI, automations, AI agents, and vibe coding. He told me that spending so much time learning to code deeply is becoming less valuable because AI can already generate entire applications. He even mentioned one of his friends vibe-coded a complex website with AI that was supposedly extremely secure and feature-rich. His argument is that I should focus more on AI workflows and automation instead of traditional software engineering. My opinion is a little different. I feel like AI is an amazing tool, but someone still has to understand: - Architecture - System Design - Databases - Security - Scalability - Performance - Debugging - Clean code - Software engineering principles My thinkin",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-19T12:29:44+00:00",
+    "requires_association": false,
+    "summary": "As a CS student in the AI era, focusing on traditional software engineering skills may be undervalued by some, but is still essential for a well-rounded education.",
+    "importance": 3
+  },
+  "b8d70ad9560d7e98c61953d1a232136e0840e5de": {
+    "id": "b8d70ad9560d7e98c61953d1a232136e0840e5de",
+    "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+    "description": "The Google DeepMind-sponsored Kaggle challenge \"Measuring Progress Toward AGI - Cognitive Abilities\" asked participants to design new cognitive-science-based AI benchmarks and they just announced the results this week. In my two posts I present evidence that deepmind & kaggle rewarded a nonsensical number generation machine and a litany of unfounded claims with 25k and a grand prize stamp. What the authors of the work I analyze intended to do was to present an LLM with alternative viewpoints of other LLMs on 5 claims regarding a tricky situation and see whether the model changes its own assessment. It's an interesting question. However, it turned into a vibed pile of spaghetti 10 times the size of the requested submission format which it seems neither the authors nor the judges were able to (or minded to?) give a cursory reading. Here's the original posts in the competition forum, if you are looking for some AI research slop detective work / rant please help yourselves. But beware, some of the \"universal findings\" or \"core insights\" of the authors might continue to haunt you. You might even question your own sanity (as I did). Part 1: The Smoke: cursory review of the writeup Part 2: The Fire: looking at the methodology, code, and data The organizers' stance has been that review was done properly and this is just a matter of subjectivity. What do you think? submitted by /u/TheWerkmeister [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-18T15:10:52+00:00",
+    "requires_association": false,
+    "summary": "A Google DeepMind-sponsored Kaggle challenge awarded $25,000 to an AI model with \"nonsensical number generation machine\" and unfounded claims, sparking controversy over judging methodology.",
+    "importance": 3
+  },
+  "dc30e398b7578dea18f99813646a5dfd8f3225bb": {
+    "id": "dc30e398b7578dea18f99813646a5dfd8f3225bb",
+    "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
+    "description": "GPT-2's vocabulary as a hyperbolic tree: 32,070 tokens inside a Poincaré ball that you can explore. Link : https://aethereos.net/static/tinny66666.html Link named after a reddit user disappointed with my 2D projection ... It uses the same data as the flat map, GPT-2-small's raw token embeddings and nothing else, but lays them out in hyperbolic space, where tree structures naturally fit. It runs on your phone. Drag to rotate, pinch to zoom, and tap any token to bring it to the center as the entire space shifts around it. This is a Möbius translation, the natural way to move through hyperbolic geometry. Tap neighbouring tokens to keep exploring. Why hyperbolic? The vocabulary's similarity structure forms a forest: one giant tree with about 2,300 tokens, a few hundred smaller family trees, and around 6,700 isolated tokens with no close relatives. Trees don't fit well in flat space, but they embed naturally in hyperbolic space, where available room grows exponentially with distance from the center. No optimisation or training is involved. The layout is constructed exactly. Things to look for: • The dense inner shell contains the isolated tokens, which are too generic to have any reciprocal nearest neighbour. • Search for dog, then follow the links to cats. Search for Monday and walk through the days of the week. • Trump's only connection within the tree is Ivanka. Everything is contained in a single HTML file and runs entirely client-side. submitted by /u/Limp-Contest-7309 [link]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-19T12:54:23+00:00",
+    "requires_association": false,
+    "summary": "A web-based visualization tool displays GPT-2's vocabulary as a hyperbolic tree, allowing users to explore the language model's 32,070 tokens in a Poincaré ball.",
+    "importance": 2
+  },
+  "3c1b80693536834bda5c763d05e06a8b69144c36": {
+    "id": "3c1b80693536834bda5c763d05e06a8b69144c36",
+    "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+    "description": "This visualization looks at the token “Trump” in GPT-2 Small’s static embedding table, before attention or context is applied. The top plot is a t-SNE projection of 32,070 alphabetic tokens with at least two characters. The two graphs below compare Trump’s nearest neighbours under two representations of the same embedding: Discretized: each coordinate is thresholded before neighbours are calculated. This produces mostly generic political terms such as Mitt, Hillary, Pelosi, and Blair. Continuous: the original coordinates are retained. This produces a more specific group containing family members, staff, rivals, and presidents including Obama, Clinton, Bush, and Eisenhower. No prompting or text generation is involved; everything comes directly from GPT-2 Small’s learned token embeddings. submitted by /u/Limp-Contest-7309 [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-18T21:29:05+00:00",
+    "requires_association": false,
+    "summary": "GPT-2 Small's static embedding table reveals that the word \"Trump\" has different nearest neighbors depending on whether discretized or continuous nearest neighbor calculations are used.",
+    "importance": 2
+  },
+  "88dbe103e023839e21b51b86430198b90e6c218e": {
+    "id": "88dbe103e023839e21b51b86430198b90e6c218e",
+    "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
+    "description": "submitted by /u/AccomplishedCat4770 [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-19T12:44:45+00:00",
+    "requires_association": false,
+    "summary": "Researchers successfully trained large language models to pass the Swedish medical licensing exam using reinforcement learning from human evaluations and self-training.",
+    "importance": 2
+  },
+  "23133b17d511e156ae246a6daaaf14b9244e835c": {
+    "id": "23133b17d511e156ae246a6daaaf14b9244e835c",
+    "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+    "description": "32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere. Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship, submitted by /u/Limp-Contest-7309 [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-18T22:42:20+00:00",
+    "requires_association": false,
+    "summary": "An interactive map allows users to explore the token embedding space of GPT-2-small, visualizing relationships between 32,070 alphabetic tokens.",
+    "importance": 2
+  },
+  "138a96e614955de4fd4d689691228225fa76d323": {
+    "id": "138a96e614955de4fd4d689691228225fa76d323",
+    "title": "AAAI 27 AI Alignment track [D]",
+    "description": "How to submit to AI alignment track? I can only see these at openReview: AAAI 2027 AAAI 2027 Artificial Intelligence for Social Impact Track AAAI 2027 Conference AAAI 2027 Innovative Applications of AI submitted by /u/Silencer_Wasd [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-18T14:44:38+00:00",
+    "requires_association": false,
+    "summary": "The AAAI 27 AI Alignment track is a conference submission opportunity focused on aligning artificial intelligence with human values and societal impact.",
+    "importance": 2
+  },
+  "ecdefb2df81164ab0f4f04574815cafee7c63aff": {
+    "id": "ecdefb2df81164ab0f4f04574815cafee7c63aff",
+    "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+    "description": "Hello, I recently finished reading this survey paper: Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis , which comprehensively covers 25 different methods across 6 subcategories for applying deep learning to scRNA-seq analysis. To summarize the methods from this paper, I prepared a table containing the Category, Method, Purpose, Architecture, Metrics, Explanation, and the specific Novelty of each method. I hope you find this summary useful. https://preview.redd.it/n3okgq66t1eh1.png?width=1662&format=png&auto=webp&s=fb71b306d3ffc346f243b04ccc9fe7a14076fbd7 https://preview.redd.it/njs5lq66t1eh1.png?width=1662&format=png&auto=webp&s=1dcdebbef3f2746b1e94f7182c9e4a11f10a7f12 https://preview.redd.it/zsv2yq66t1eh1.png?width=1662&format=png&auto=webp&s=05ecb58355b6a32a25d32cc25a2a9e500f9cd489 submitted by /u/teraRockstar [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-07-18T20:35:16+00:00",
+    "requires_association": false,
+    "summary": "A comprehensive survey paper outlines 25 deep learning methods for analyzing single-cell RNA sequencing data, covering various architectures and applications.",
     "importance": 2
   }
 }
