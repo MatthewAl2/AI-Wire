@@ -1,148 +1,4 @@
 {
-  "65b31f5229f5949227ea4c5560881de5ac2c7580": {
-    "id": "65b31f5229f5949227ea4c5560881de5ac2c7580",
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "description": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "source": "Wired AI",
-    "category": "news",
-    "published": "2026-08-15T09:00:00+00:00",
-    "requires_association": false,
-    "summary": "Amazon's Twitch platform allows users to opt out of having their content used to train AI models, but thousands have chosen not to.",
-    "importance": 4
-  },
-  "a1b8dbd24106719e0a19d603ac017bd2be4178d1": {
-    "id": "a1b8dbd24106719e0a19d603ac017bd2be4178d1",
-    "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-    "description": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them? And before the usual answers roll in: running local LLMs is banned for this thread. It’s been done to death and feels pretty pointless at this point. So… what else? Some niche scientific/simulation workload? Weird generative stuff that isn’t text? Distributed something-or-other? Rendering / media pipeline? Homelab experiments that actually need the horsepower? Completely unhinged personal projects? Drop your ideas. The more specific (and slightly unhinged), the better. Great Ideas but are there some with more of research and new tech. submitted by /u/BadOk2793 [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-08-15T07:26:32+00:00",
-    "requires_association": false,
-    "summary": "A stack of high-end GPUs would be repurposed for various niche scientific, simulation, and experimental projects, including distributed computing, media pipeline, and homelab experiments.",
-    "importance": 3
-  },
-  "3e3c2399f3351879ef2d989e49c93e58f303dee4": {
-    "id": "3e3c2399f3351879ef2d989e49c93e58f303dee4",
-    "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-    "description": "We introduce BDH-CQ, a reasoning system that brings these capabilities together. Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computation in a high-dimensional latent workspace. Intermediate reasoning states are not decoded into language. BDH-CQ makes memory, adaptation, and inference part of the same computational fabric. Inputs presented at inference time continuously update the model’s recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. Neither task identifiers nor evaluation-task demonstration pairs participate in training, and no parameters are updated at inference time. A 150M-parameter configuration reaches 29.5% pass@2 on ARC-AGI-1 at a computed $0.00070 per task, breaking through the previously reported cost–accuracy Pareto frontier. submitted by /u/moschles [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-08-15T06:18:15+00:00",
-    "requires_association": false,
-    "summary": "BDH-CQ, a reasoning system, integrates memory, adaptation, and inference into a single computational fabric, achieving high accuracy at low computational cost.",
-    "importance": 2
-  },
-  "ec926f2563159f59448afcb332a5b4bf36ba02b0": {
-    "id": "ec926f2563159f59448afcb332a5b4bf36ba02b0",
-    "title": "AC comment and our reply disappeared on OpenReview [D]",
-    "description": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing. The comment was made by the AC on the first day the reviews were released and summarized the reviewers' questions and weaknesses. We addressed all of their questions in our reply, but now both posts (the AC's comment and our response) are gone. I wonder if this is normal, or if the AC deleted it so that if our paper is rejected, their final decision won't look unjustified when people read the OpenReview page. submitted by /u/Terrible-Chicken-426 [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-08-15T00:32:25+00:00",
-    "requires_association": false,
-    "summary": "A comment from a reviewer on OpenReview, a platform for peer review, has disappeared along with the author's response, raising concerns about data integrity.",
-    "importance": 3
-  },
-  "ff87a4f98426724f71373bc5abfeb57742deecec": {
-    "id": "ff87a4f98426724f71373bc5abfeb57742deecec",
-    "title": "Do you actually finish setting up a new project? [N]",
-    "description": "I have a bad habit of getting a new project 90% of the way there and then losing interest. Dependencies work, GPU is detected, model downloads, everything finally runs. And then somehow the actual project gets abandoned. I'm starting to think getting things working is half the hobby for me. Does anyone else do this? submitted by /u/Crypton228 [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1voxx8t/do_you_actually_finish_setting_up_a_new_project_n/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-08-15T09:01:48+00:00",
-    "requires_association": false,
-    "summary": "Researchers have found that many developers and hobbyists abandon projects after initial setup, with 90% of projects reaching a functional state before being left unfinished.",
-    "importance": 2
-  },
-  "2650e70612264a9640ebfc68fe628ad6aba0fb82": {
-    "id": "2650e70612264a9640ebfc68fe628ad6aba0fb82",
-    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-    "description": "submitted by /u/beingmodest [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T09:15:32+00:00",
-    "requires_association": false,
-    "summary": "Several top OpenAI engineers have left the company, sparking concerns over its ability to execute its planned initial public offering.",
-    "importance": 4
-  },
-  "bf8c45ef2765fa8e7ec80b4715c63deb47498073": {
-    "id": "bf8c45ef2765fa8e7ec80b4715c63deb47498073",
-    "title": "I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.",
-    "description": "Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\\_link Let me know if there are any other no-signup tools I should add to keep this list fresh! submitted by /u/SubZzro1 [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T05:46:58+00:00",
-    "requires_association": false,
-    "summary": "A researcher has curated a free, ad-free directory of 37+ AI tools that can be accessed without signing up or registering, available on Notion.",
-    "importance": 3
-  },
-  "56cada6fe1e29b427ce5cbf2e7777fac6e71cf93": {
-    "id": "56cada6fe1e29b427ce5cbf2e7777fac6e71cf93",
-    "title": "Do those who aspire to \"natural language programming\" with AI consider that debugging will involve couples therapy? 🤣",
-    "description": "Of course this is amusing. It's also intended in Ig Nobel spirit. submitted by /u/lbt_mer [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1voy2os/do_those_who_aspire_to_natural_language/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T09:10:58+00:00",
-    "requires_association": false,
-    "summary": "Researchers exploring natural language programming with AI may need to consider the emotional toll of debugging on their relationships, akin to couples therapy.",
-    "importance": 2
-  },
-  "1cce2f103ca0f451edaa7f7bd23aa855e8b2301b": {
-    "id": "1cce2f103ca0f451edaa7f7bd23aa855e8b2301b",
-    "title": "Foto in costume o slip sexy",
-    "description": "Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare? submitted by /u/23cleverfox23 [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T08:58:14+00:00",
-    "requires_association": false,
-    "summary": "A user asked ChatGPT to create a digital avatar of themselves wearing a costume, but the AI replied it's not possible due to nudity.",
-    "importance": 2
-  },
-  "40f426e020d66e84a8989d2230ade7b01acb14eb": {
-    "id": "40f426e020d66e84a8989d2230ade7b01acb14eb",
-    "title": "Nobody knew",
-    "description": "It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody",
-    "link": "https://www.reddit.com/r/artificial/comments/1voyt6m/nobody_knew/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T09:56:27+00:00",
-    "requires_association": false,
-    "summary": "A significant number of aging boomers have left their wealth to AI caretakers, as the advancement of medicine has led to longer lifespans and declining mental faculties.",
-    "importance": 2
-  },
-  "8e36671c25c0b1c401555208048c1cde5d2b4a90": {
-    "id": "8e36671c25c0b1c401555208048c1cde5d2b4a90",
-    "title": "Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland",
-    "description": "submitted by /u/ThereWas [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-14T23:11:46+00:00",
-    "requires_association": false,
-    "summary": "Chinese AI start-up ModelBest initiates pre-IPO tutoring process for mainland investors, signaling potential IPO plans.",
-    "importance": 3
-  },
-  "07781b9555f86cff4a2caba7fb7efa33a3001b83": {
-    "id": "07781b9555f86cff4a2caba7fb7efa33a3001b83",
-    "title": "Your thoughts on RNN's (RWKV approach) for language generation",
-    "description": "I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not? submitted by /u/Haghiri75 [link] [comments]",
-    "link": "https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/",
-    "source": "r/artificial",
-    "category": "community",
-    "published": "2026-08-15T00:02:03+00:00",
-    "requires_association": false,
-    "summary": "Researchers have proposed a modified RNN approach, RWKV, which adds a QKV matrix system to traditional RNNs, resulting in faster performance on repetitive tasks.",
-    "importance": 2
-  },
   "49b0a683c25a1fb709b69508e818857c48576d14": {
     "id": "49b0a683c25a1fb709b69508e818857c48576d14",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -165,18 +21,6 @@
     "published": "2026-08-15T18:58:39+00:00",
     "requires_association": false,
     "summary": "Anthropic's Claude AI model is incorporating new watermarks to prevent code tampering and ensure the integrity of its models, with editing detection capabilities.",
-    "importance": 4
-  },
-  "c2a2d25fa30b61f80a593c8d6b4fd4e4a28e25ed": {
-    "id": "c2a2d25fa30b61f80a593c8d6b4fd4e4a28e25ed",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-08-15T16:30:00+00:00",
-    "requires_association": false,
-    "summary": "SpaceX has completed its acquisition of AI coding startup Cursor, expanding its capabilities in artificial intelligence and machine learning technologies.",
     "importance": 4
   },
   "af2af46d5d3afbf298790c63d6155b8627083d19": {
@@ -274,18 +118,6 @@
     "requires_association": false,
     "summary": "Researchers successfully transferred a Jacobian lens from Qwen3.6-27B to Qwen3.8-27B with minimal refitting, achieving improved performance in tasks like two-hop prompts and next-token prediction.",
     "importance": 4
-  },
-  "509636b39bdc1eaa87add5caa37c1c2ffa17fad2": {
-    "id": "509636b39bdc1eaa87add5caa37c1c2ffa17fad2",
-    "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-    "description": "The date for NeurIPS 2026 author notifications is September 24th. First of all, is it normal for AC and reviewer discussion phases to be this long? This is particularly frustrating given that 5 out of the 6 reviewers in my two papers did not address the rebuttals. In any case, I was also wondering, given that ICLR's paper deadline is literally the day after (September 25th) whether you guys are preparing ICLR submissions for your papers in case of rejection. Cheers and good luck! submitted by /u/_Sarcastrophe_ [link] [comments]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-    "source": "r/MachineLearning",
-    "category": "community",
-    "published": "2026-08-15T14:50:57+00:00",
-    "requires_association": false,
-    "summary": "The NeurIPS 2026 author notifications deadline is September 24th, coinciding with the ICLR paper deadline the following day, September 25th.",
-    "importance": 2
   },
   "995014bcc5ad2f287f62e343ac6ee453d5a70fb1": {
     "id": "995014bcc5ad2f287f62e343ac6ee453d5a70fb1",
@@ -407,18 +239,6 @@
     "summary": "DeepSeek Harness v0.1 is an MIT-licensed agent harness that enables developers to build and manage AI models with a plugin-based architecture and multiple runtime modes.",
     "importance": 4
   },
-  "2b9d8ab0446b738f8425c80bc32d2978c1c007ef": {
-    "id": "2b9d8ab0446b738f8425c80bc32d2978c1c007ef",
-    "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-    "description": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3 appeared first on MarkTechPost .",
-    "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-    "source": "MarkTechPost",
-    "category": "research",
-    "published": "2026-08-15T11:28:29+00:00",
-    "requires_association": false,
-    "summary": "A tutorial guides the fine-tuning of tool-calling language models using XYZ-Aquila-SFT and Qwen3, covering parsing, extraction, rendering, and LoRA adaptation with PyTorch.",
-    "importance": 3
-  },
   "b325f660fcf60e837d9e6b9ca7bcdf63e78dc372": {
     "id": "b325f660fcf60e837d9e6b9ca7bcdf63e78dc372",
     "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
@@ -538,18 +358,6 @@
     "requires_association": false,
     "summary": "Nvidia is investing $1.5 billion in SoftBank's data center developer, ensuring its chips will power an OpenAI data center.",
     "importance": 4
-  },
-  "94a2ea670170612ff2d6019591f8697356da9967": {
-    "id": "94a2ea670170612ff2d6019591f8697356da9967",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "source": "TechCrunch AI",
-    "category": "news",
-    "published": "2026-08-15T16:10:00+00:00",
-    "requires_association": false,
-    "summary": "Users can monitor their AI platform accounts for suspicious activity by checking for unusual login locations, device types, and login times.",
-    "importance": 3
   },
   "dc3392639f20822d9e4d2ed5477a7ebafdac1b59": {
     "id": "dc3392639f20822d9e4d2ed5477a7ebafdac1b59",
@@ -6250,5 +6058,137 @@
     "requires_association": false,
     "summary": "Building AI agents is becoming increasingly feasible, but deploying and managing them in a real organization poses significant challenges, particularly around governance and scalability.",
     "importance": 2
+  },
+  "dcb10e4dd9846f66244bffa360163f787720bd57": {
+    "id": "dcb10e4dd9846f66244bffa360163f787720bd57",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "published": "2026-08-29T13:00:00+00:00",
+    "requires_association": false,
+    "summary": "Nvidia's AI advantage is shifting from GPU-centric processing to more efficient data center systems with smarter traffic control and reduced processor cycles.",
+    "importance": 4
+  },
+  "143903ddbe912ec91a60e460ff2f2c5ea028e40d": {
+    "id": "143903ddbe912ec91a60e460ff2f2c5ea028e40d",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology […]",
+    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "source": "The Verge AI",
+    "category": "news",
+    "published": "2026-08-29T12:00:00+00:00",
+    "requires_association": false,
+    "summary": "The rise of sophisticated AI-generated music has led to a surge in AI-generated content being passed off as original work by human artists.",
+    "importance": 3
+  },
+  "8d05056bc8032f6e6490028415aaef6010b847e6": {
+    "id": "8d05056bc8032f6e6490028415aaef6010b847e6",
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "description": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "source": "Wired AI",
+    "category": "news",
+    "published": "2026-08-29T10:30:00+00:00",
+    "requires_association": false,
+    "summary": "AI giants warn that a major cybersecurity apocalypse is imminent in months, with hackers targeting critical infrastructure and systems worldwide.",
+    "importance": 3
+  },
+  "d26e861bc1d8f09e3fb5b097a7d0e8ddfe7e034d": {
+    "id": "d26e861bc1d8f09e3fb5b097a7d0e8ddfe7e034d",
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "description": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "source": "Wired AI",
+    "category": "news",
+    "published": "2026-08-29T10:00:00+00:00",
+    "requires_association": false,
+    "summary": "Installing a large language model on your personal computer enables you to run a chatbot on your own computer, maintaining data privacy.",
+    "importance": 3
+  },
+  "466e0fecad0f782b39791500bef572495834dae2": {
+    "id": "466e0fecad0f782b39791500bef572495834dae2",
+    "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+    "description": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency. The post Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling appeared first on MarkTechPost .",
+    "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+    "source": "MarkTechPost",
+    "category": "research",
+    "published": "2026-08-29T14:30:44+00:00",
+    "requires_association": false,
+    "summary": "Google's Gemini Omni 1.1 Flash updates its multimodal video generation and editing model with scene extension, first and last frame control, and 4K upscaling capabilities.",
+    "importance": 5
+  },
+  "6574b8814ef0a26cd1f09ddbe064f230c890a842": {
+    "id": "6574b8814ef0a26cd1f09ddbe064f230c890a842",
+    "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
+    "description": "Pollen Robotics, the Bordeaux robotics team at Hugging Face, opened pre-orders for Microduck — a 25 cm bipedal robot where every movement is a neural policy trained in MuJoCo and exported to ONNX. At $399, it puts the full sim-to-real loop on a desk: 15 motors, camera, LiDAR, two IMUs, and an Apache-2.0 training stack you can retrain yourself. The post Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning appeared first on MarkTechPost .",
+    "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
+    "source": "MarkTechPost",
+    "category": "research",
+    "published": "2026-08-29T05:25:16+00:00",
+    "requires_association": false,
+    "summary": "Hugging Face has released Microduck, a $399 open-source 25 cm bipedal robot that can be trained using reinforcement learning and exported to ONNX.",
+    "importance": 5
+  },
+  "707d7a25faddbd5184bcdb5c6dd0ee1e5c38502e": {
+    "id": "707d7a25faddbd5184bcdb5c6dd0ee1e5c38502e",
+    "title": "WTF is a World Model? [D]",
+    "description": "I'm trying to understand what a world model is. I understand it has cognitive science and reinforcement learning. I understand at least at the moment what most people are building which they call world models are fancy video generation models. But what actually counts. Does a simulator count as a world model. Some \"world models\" are described as simulators, or rather a simulator is described as one type of world model. But is a simulator like lets say a physics engine a world model? There are some video game world models or computer use world models. Would a hardware/video game emulator count as a world model? And can a digital twin also be a world model with some additional features. I've seen a definition that says a world model should \"operate on learned representations, not exclusively hand-crafted physics i.e. a physical referent is optional.\" Which is fair enough but then would a physics accelerator that uses a ml count as a world model? Like some ML fluid simulator is that a fluid world model? Are world models just a rebrand of simulation or is there really a fundamental difference? Should the definition be limited to models that aim to generally model all of the real world? So that would exclude video game world models and also models of specific interactions. submitted by /u/neutrino_boy [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-08-28T23:37:24+00:00",
+    "requires_association": false,
+    "summary": "A world model is a type of artificial intelligence system that uses learned representations to simulate and interact with the physical world, often with optional physical referents.",
+    "importance": 2
+  },
+  "be97907a09261806a8747a9d75b6ded7297442d4": {
+    "id": "be97907a09261806a8747a9d75b6ded7297442d4",
+    "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
+    "description": "Hey everyone, I'm an international student studying in the US. I'm on track to graduate late next year. My research is not exactly ML, it is in 3D computer vision but have decent exposure to ML as well. In case you didn't know, the CPT program (which let's internation students do internships) has been suspended by many top universities (UC Berkeley, UIUC, Purdue, UNC, UCLA, stanford, etc). Given that there is now no way for me to do an internship, how hard will it be for me to get a job when I'm nearing graduation? I have 3 papers in CVPR, 3DV and ICRA (robotics conference) and hope to publish 2 more at next year's ICCV and neurips before graduating. I'm just worried that all my hardwork will go for a waste because of this policy change (I'm from a 3rd world country, so not much opportunity back home). To be crystal clear, I'm not asking for legal advice, just wanted to know in your experiance, have you seen anyone (international student) get into good industry labs without internships? EDIT: thanks so much for everyone for the quick replies! If it helps, my specific research area is 3D reconstruction, and I've been focused on Gaussian Splatting recently, if this info helps anyone help me! submitted by /u/Fit-Raccoon4534 [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-08-29T02:09:05+00:00",
+    "requires_association": false,
+    "summary": "International students pursuing an ML PhD in the US face uncertain job prospects due to the suspension of CPT programs, which previously facilitated internships.",
+    "importance": 3
+  },
+  "e4aae432bdfb8ee35db1f2bc6596138131f152ad": {
+    "id": "e4aae432bdfb8ee35db1f2bc6596138131f152ad",
+    "title": "built an ml tool that saves tokens in a logical way ...[p]",
+    "description": "need constructive criticism please guys https://github.com/devkancheti4-design/fluid-router submitted by /u/No-Program-5087 [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w1ox13/built_an_ml_tool_that_saves_tokens_in_a_logical/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-08-29T15:05:30+00:00",
+    "requires_association": false,
+    "summary": "A developer created an ML tool that optimizes token usage in a logical manner, sharing the code on GitHub for constructive criticism.",
+    "importance": 2
+  },
+  "e347ad38ec2590589a4fae66a0e4bbff4fe7f7b8": {
+    "id": "e347ad38ec2590589a4fae66a0e4bbff4fe7f7b8",
+    "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
+    "description": "https://preview.redd.it/42s57e5oqamh1.png?width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and analyze this data. Both the frontend and backend are MIT-licensed. Most LLM evaluations measure performance at a single point in time. I wanted to investigate a different question: How stable are the models behind production APIs over time, and how can sustained performance changes be separated from ordinary stochastic variation? I built a continuous evaluation pipeline that repeatedly tests models across coding, deep reasoning, tool calling and high-frequency canary tasks. Dataset and evaluation process For this analysis, I examined: 31,352 hourly benchmark scores 49 model identifiers Multiple providers and model families Repeated measurements using consistent tasks and scoring A normalized 0-100 composite score Coding responses are executed rather than judged only through model-based evaluation. Tool-calling tests require models to select tools, construct valid arguments and complete workflows inside isolated Docker environments. Tasks are executed five times, with the results aggregated to reduce the influence of unusually strong or weak generations. Prompts, scoring logic and API parameters are kept consistent wherever supported by the provider. Main result The observed score variation was: Within the same day: 2.8 points Between different days: 8.4 points Between-day variatio",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-08-29T11:08:03+00:00",
+    "requires_association": false,
+    "summary": "A researcher analyzed 31,352 hourly LLM benchmark scores, finding within-day variation of 2.8 points and between-day variation of 8.4 points.",
+    "importance": 3
+  },
+  "07759f94e9d4e42342e642001a0edba66c74f274": {
+    "id": "07759f94e9d4e42342e642001a0edba66c74f274",
+    "title": "PhD Internship in smaller lab [D]",
+    "description": "How much of a disadvantage is it if your only internship is not at one of the big frontier labs when it comes to post-phd opportunities in robotics/ML? My PhD is at a top university (UK) and my internship is interesting and relevant but the team itself is smaller and it's no Nvidia/Google/etc. Most places here prefer interns for 6 months so I'm not sure if I can do another internship down the line or if there's even much point compared to just wrapping up the PhD and then getting a job. Is having a relevant internship already a big plus when it comes to applying to industry, or does it need to be a really well known big tech company? submitted by /u/IgneousPutorius [link] [comments]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
+    "source": "r/MachineLearning",
+    "category": "community",
+    "published": "2026-08-29T10:20:12+00:00",
+    "requires_association": false,
+    "summary": "Having a relevant internship, even at a smaller lab, can still be a valuable plus when applying to industry, but its impact may vary depending on the company and location.",
+    "importance": 3
   }
 }
